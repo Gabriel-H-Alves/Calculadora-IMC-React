@@ -63,11 +63,9 @@ Alteração visual baseada na classificação do IMC utilizando estilos condicio
 
 ## 📸 Preview do Projeto
 
-Adicione aqui uma imagem ou GIF do projeto funcionando.
-
-```md
-![Preview do Projeto](./assets/preview.png)
-```
+<p align="center">
+  <img src="./src/assets/preview.png" alt="Preview do Projeto" width="800"/>
+</p>
 
 ---
 
